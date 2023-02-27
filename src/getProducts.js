@@ -18,7 +18,6 @@ export default async function getProducts(url) {
   const DISCOUNT_SELECTOR = ".package-price p";
 
   // This is the final results array
-  // The spec calls
   const products = [];
 
   // Find all packaes and iterate over each one
