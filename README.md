@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This instructions cover how to get my solution working for the dns-systems.net web scraping challenge.
+These instructions cover how to get my solution working for the dns-systems.net web scraping challenge.
 
 At the conclusion of the interview process, this repository will be taken down.
 
