@@ -38,7 +38,7 @@ yarn start
 The results of the script are written to the console. If you want to save the results to a file, use the following:
 
 ```
-yarn start >results.json
+yarn start:save
 ```
 
 ## Author

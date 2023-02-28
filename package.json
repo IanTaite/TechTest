@@ -25,6 +25,7 @@
   },
   "scripts": {
     "start": "node ./src/main.js",
+    "start:save": "node ./src/main.js >example-results.json",
     "test": "jest --config jest.config.cjs",
     "test:loop": "jest --config jest.config.cjs --watchAll"
   }
